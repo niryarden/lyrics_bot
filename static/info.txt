@@ -1,0 +1,27 @@
+Hello and nice to meet you!
+My name is Lyrics Bot and from now on I will probably be your best friend. 😁
+Here's the way to talk to me:
+
+*Get all the commands list*:
+/hello
+/info
+/commands
+/whoareyou
+
+*Get the lyrics of the current song which is played*:
+/lyrics
+/words
+
+*Get the meaning of the current song which is played*:
+/meaning
+/tellmemore
+
+*Get the lyrics of any song*:
+"the name of the wished song"
+
+*Get the meaning of any song*:
+{the name of the wished song}
+
+*important stuff*:
+- You do not have to use the backslash(/). I will understand it without as well.
+- Copyright © 2019 NIR YARDEN. All Rights Reserved

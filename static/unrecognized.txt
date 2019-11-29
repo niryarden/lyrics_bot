@@ -1,0 +1,28 @@
+Hey there body!
+I'm sorry but I couldn't understand your last message... I'm just a robot, you know.
+Here's the way to talk to me:
+
+*Get all the commands list*:
+/hello
+/info
+/commands
+/whoareyou
+
+*Get the lyrics of the current song which is played*:
+/lyrics
+/words
+
+*Get the meaning of the current song which is played*:
+/meaning
+/tellmemore
+
+*Get the lyrics of any song*:
+"the name of the wished song"
+
+*Get the meaning of any song*:
+{the name of the wished song}
+
+*important stuff*:
+✔ You do not have to use the backslash(/). I will understand it without as well.
+✔ Please send one message at a time and wait for an answer, It'll come quickly, I guarantee.
+✔ Copyright © 2019 NIR YARDEN. All Rights Reserved
