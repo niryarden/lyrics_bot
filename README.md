@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/niryarden/lyrics_bot/blob/master/data/bot-logo.jpg" alt="lyrics_bot logo" width="100" height="100">
+    <img src="https://github.com/niryarden/lyrics_bot/blob/master/data/bot-logo.jpg" alt="lyrics_bot logo" width="200" height="200">
 </p>
 
 <h1 align="center">lyrics_bot</h1>
