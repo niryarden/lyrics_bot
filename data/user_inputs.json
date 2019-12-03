@@ -1,0 +1,40 @@
+{
+  "lyrics": [
+    "/lyrics",
+    "/lyric",
+    "/lyrix",
+    "/words"
+  ],
+  "meaning": [
+    "/meaning",
+    "/meanings",
+    "/meening",
+    "/meenings",
+    "/tellmemore"
+  ],
+  "info": [
+    "/info",
+    "/hello",
+    "/hey",
+    "/whoareyou",
+    "/helo",
+    "/commands",
+    "/start"
+  ],
+  "cheers": [
+    "what's up",
+    "Whats up",
+    "whatsup?",
+    "What'sup?",
+    "how are you?",
+    "how are you"
+  ],
+  "bye": [
+    "bye",
+    "goodbye",
+    "bye!",
+    "goodbye!",
+    "see you",
+    "see you!"
+  ]
+}
