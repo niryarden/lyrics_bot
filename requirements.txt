@@ -4,7 +4,7 @@ chardet==3.0.4
 google==2.0.2
 idna==2.8
 langdetect==1.0.7
-pywin32==227
+pywin32==301
 requests==2.22.0
 six==1.13.0
 soupsieve==1.9.5
